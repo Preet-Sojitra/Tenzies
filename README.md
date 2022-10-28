@@ -6,6 +6,6 @@ I am planning to add more features to this game on my own.
 
 ## Proposed features
 
--[] Add best moves score and store it in local storage
+- [ ] Add best moves score and store it in local storage
 
--[] Add timer
+- [ ] Add timer
